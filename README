@@ -1,6 +1,6 @@
 xfwp
 ------------------------------------------
-Xorg firewall proxy
+X.Org firewall proxy
 
 Runtime requirements:
   cygwin-1.5.20-1
