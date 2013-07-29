@@ -1,4 +1,0 @@
-category: X11
-requires: libICE6
-sdesc: "X.Org firewall proxy"
-ldesc: "X.Org firewall proxy"
